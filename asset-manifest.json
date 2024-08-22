@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Currency-Converter-App/static/css/main.cfd2dedc.css",
+    "main.js": "/Currency-Converter-App/static/js/main.c3d876c2.js",
+    "static/media/currencyexchange.png": "/Currency-Converter-App/static/media/currencyexchange.3fe8186426fd458606da.png",
+    "index.html": "/Currency-Converter-App/index.html",
+    "main.cfd2dedc.css.map": "/Currency-Converter-App/static/css/main.cfd2dedc.css.map",
+    "main.c3d876c2.js.map": "/Currency-Converter-App/static/js/main.c3d876c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfd2dedc.css",
+    "static/js/main.c3d876c2.js"
+  ]
+}
